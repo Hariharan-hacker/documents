@@ -1,0 +1,434 @@
+Microsoft Windows [Version 10.0.19045.4046]
+(c) Microsoft Corporation. All rights reserved.
+
+E:\JOB\FrontEndBasics\JS>git init
+Initialized empty Git repository in E:/JOB/FrontEndBasics/JS/.git/
+
+E:\JOB\FrontEndBasics\JS>git config --global user.name "Hariharan-hacker"
+
+E:\JOB\FrontEndBasics\JS>git config --global user.email "hariharansr2005@gmail.com"
+
+E:\JOB\FrontEndBasics\JS>git clone https://github.com/Hariharan-hacker/documents.git
+Cloning into 'documents'...
+warning: You appear to have cloned an empty repository.
+
+E:\JOB\FrontEndBasics\JS>git add .
+warning: in the working copy of 'c43-shuffecardsexampl/FrontEndDeveloper.code-workspace', LF will be replaced by CRLF the next time Git touches it
+error: 'documents/' does not have a commit checked out
+fatal: adding files failed
+
+E:\JOB\FrontEndBasics\JS>git commit -m "12"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        c1-introduction/
+        c10-Dice_Roll/
+        c100-/
+        c11-string_properties _methods/
+        c12-slice/
+        c13-method_chaiing/
+        c14-condition_statment/
+        c15-if_condition_in_checkbox_and_radio/
+        c16-switch_class/
+        c17-AND_OR__NOT_Operator/
+        c18-while_do-while_loop/
+        c19-for_break_continue/
+        c2-variables/
+        c20-Nested_loop/
+        c21-show_password/
+        c22-function_method/
+        c23-return_method/
+        c24-ternary/
+        c25-template_literals/
+        c26-converter/
+        c27-basic_guess_num/
+        c28-conversion_of_celsius_fahrenheir/
+        c29-arrays/
+        c3-Arithemetic_Expresssion/
+        c30-iterate array/
+        c31-sortarray/
+        c32-2d_array/
+        c33-spreadoperator/
+        c34-rest_parameter/
+        c35-callback/
+        c36-array.forEach()/
+        c37-array.map()/
+        c38-array.filter()/
+        c39-array.reduce()/
+        c4-user_input/
+        c40-array.sort()/
+        c41-function expression/
+        c42-arrowfunction/
+        c43-shuffecardsexampl/
+        c44-Nestedfunction/
+        c45-map/
+        c46-object/
+        c47-class/
+        c48-constructor/
+        c49-static/
+        c5-change_type_of_variable/
+        c50-inheritance/
+        c51-superkeyword/
+        c52-getters and setters/
+        c53-pass object as argument/
+        c54-arrays of object/
+        c55-anonymous object/
+        c56-error handing/
+        c57-setTimeout/
+        c58-setInterval/
+        c59-date/
+        c6-const_variable/
+        c60-clock/
+        c61-sychronous and asychronous code/
+        c62-console.time()/
+        c63-destructuring/
+        c64-random password geerate/
+        c65-promises/
+        c66-async and await/
+        c67-modules/
+        c68-DOM/
+        c69-element seectors/
+        c7-js_math/
+        c70-DOM Navigation/
+        c71 add x change html element/
+        c72- change css properties using javascript/
+        c73-clousures/
+        c74-this keyword/
+        c75-events/
+        c76-event handler/
+        c77- hide and show img/
+        c78-detect key presses/
+        c79-animation/
+        c8-SampleProgram-Right_Angle_Triangle/
+        c80-canvas api/
+        c81-window/
+        c82-cookies/
+        c83-timer/
+        c84-rock paper scissor/
+        c85-tic tac toe/
+        c86-snake game/
+        c87-/
+        c88-/
+        c89-/
+        c9-Counter_Program/
+        c90-/
+        c91-/
+        c92-/
+        c93-/
+        c94-/
+        c95-/
+        c96-/
+        c97-/
+        c98-/
+        c99-/
+        documents/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+E:\JOB\FrontEndBasics\JS>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        c1-introduction/
+        c10-Dice_Roll/
+        c100-/
+        c11-string_properties _methods/
+        c12-slice/
+        c13-method_chaiing/
+        c14-condition_statment/
+        c15-if_condition_in_checkbox_and_radio/
+        c16-switch_class/
+        c17-AND_OR__NOT_Operator/
+        c18-while_do-while_loop/
+        c19-for_break_continue/
+        c2-variables/
+        c20-Nested_loop/
+        c21-show_password/
+        c22-function_method/
+        c23-return_method/
+        c24-ternary/
+        c25-template_literals/
+        c26-converter/
+        c27-basic_guess_num/
+        c28-conversion_of_celsius_fahrenheir/
+        c29-arrays/
+        c3-Arithemetic_Expresssion/
+        c30-iterate array/
+        c31-sortarray/
+        c32-2d_array/
+        c33-spreadoperator/
+        c34-rest_parameter/
+        c35-callback/
+        c36-array.forEach()/
+        c37-array.map()/
+        c38-array.filter()/
+        c39-array.reduce()/
+        c4-user_input/
+        c40-array.sort()/
+        c41-function expression/
+        c42-arrowfunction/
+        c43-shuffecardsexampl/
+        c44-Nestedfunction/
+        c45-map/
+        c46-object/
+        c47-class/
+        c48-constructor/
+        c49-static/
+        c5-change_type_of_variable/
+        c50-inheritance/
+        c51-superkeyword/
+        c52-getters and setters/
+        c53-pass object as argument/
+        c54-arrays of object/
+        c55-anonymous object/
+        c56-error handing/
+        c57-setTimeout/
+        c58-setInterval/
+        c59-date/
+        c6-const_variable/
+        c60-clock/
+        c61-sychronous and asychronous code/
+        c62-console.time()/
+        c63-destructuring/
+        c64-random password geerate/
+        c65-promises/
+        c66-async and await/
+        c67-modules/
+        c68-DOM/
+        c69-element seectors/
+        c7-js_math/
+        c70-DOM Navigation/
+        c71 add x change html element/
+        c72- change css properties using javascript/
+        c73-clousures/
+        c74-this keyword/
+        c75-events/
+        c76-event handler/
+        c77- hide and show img/
+        c78-detect key presses/
+        c79-animation/
+        c8-SampleProgram-Right_Angle_Triangle/
+        c80-canvas api/
+        c81-window/
+        c82-cookies/
+        c83-timer/
+        c84-rock paper scissor/
+        c85-tic tac toe/
+        c86-snake game/
+        c87-/
+        c88-/
+        c89-/
+        c9-Counter_Program/
+        c90-/
+        c91-/
+        c92-/
+        c93-/
+        c94-/
+        c95-/
+        c96-/
+        c97-/
+        c98-/
+        c99-/
+        documents/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+E:\JOB\FrontEndBasics\JS>git add ./c100--/index.html
+fatal: pathspec './c100--/index.html' did not match any files
+
+E:\JOB\FrontEndBasics\JS>git add ./c100-/index.html
+
+E:\JOB\FrontEndBasics\JS>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   c100-/index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        c1-introduction/
+        c10-Dice_Roll/
+        c100-/index.js
+        c100-/style.css
+        c11-string_properties _methods/
+        c12-slice/
+        c13-method_chaiing/
+        c14-condition_statment/
+        c15-if_condition_in_checkbox_and_radio/
+        c16-switch_class/
+        c17-AND_OR__NOT_Operator/
+        c18-while_do-while_loop/
+        c19-for_break_continue/
+        c2-variables/
+        c20-Nested_loop/
+        c21-show_password/
+        c22-function_method/
+        c23-return_method/
+        c24-ternary/
+        c25-template_literals/
+        c26-converter/
+        c27-basic_guess_num/
+        c28-conversion_of_celsius_fahrenheir/
+        c29-arrays/
+        c3-Arithemetic_Expresssion/
+        c30-iterate array/
+        c31-sortarray/
+        c32-2d_array/
+        c33-spreadoperator/
+        c34-rest_parameter/
+        c35-callback/
+        c36-array.forEach()/
+        c37-array.map()/
+        c38-array.filter()/
+        c39-array.reduce()/
+        c4-user_input/
+        c40-array.sort()/
+        c41-function expression/
+        c42-arrowfunction/
+        c43-shuffecardsexampl/
+        c44-Nestedfunction/
+        c45-map/
+        c46-object/
+        c47-class/
+        c48-constructor/
+        c49-static/
+        c5-change_type_of_variable/
+        c50-inheritance/
+        c51-superkeyword/
+        c52-getters and setters/
+        c53-pass object as argument/
+        c54-arrays of object/
+        c55-anonymous object/
+        c56-error handing/
+        c57-setTimeout/
+        c58-setInterval/
+        c59-date/
+        c6-const_variable/
+        c60-clock/
+        c61-sychronous and asychronous code/
+        c62-console.time()/
+        c63-destructuring/
+        c64-random password geerate/
+        c65-promises/
+        c66-async and await/
+        c67-modules/
+        c68-DOM/
+        c69-element seectors/
+        c7-js_math/
+        c70-DOM Navigation/
+        c71 add x change html element/
+        c72- change css properties using javascript/
+        c73-clousures/
+        c74-this keyword/
+        c75-events/
+        c76-event handler/
+        c77- hide and show img/
+        c78-detect key presses/
+        c79-animation/
+        c8-SampleProgram-Right_Angle_Triangle/
+        c80-canvas api/
+        c81-window/
+        c82-cookies/
+        c83-timer/
+        c84-rock paper scissor/
+        c85-tic tac toe/
+        c86-snake game/
+        c87-/
+        c88-/
+        c89-/
+        c9-Counter_Program/
+        c90-/
+        c91-/
+        c92-/
+        c93-/
+        c94-/
+        c95-/
+        c96-/
+        c97-/
+        c98-/
+        c99-/
+        documents/
+
+
+E:\JOB\FrontEndBasics\JS>git commit -m "js"
+[master (root-commit) 7dce3fd] js
+ 1 file changed, 12 insertions(+)
+ create mode 100644 c100-/index.html
+
+E:\JOB\FrontEndBasics\JS>git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+
+E:\JOB\FrontEndBasics\JS>git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+E:\JOB\FrontEndBasics\JS>git remote add master https://github.com/Hariharan-hacker/documents.git
+
+E:\JOB\FrontEndBasics\JS>git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream master master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+E:\JOB\FrontEndBasics\JS>git log
+commit 7dce3fdad3af52c05c9ce68248708b02c4dbca1c (HEAD -> master)
+Author: Hariharan-hacker <hariharansr2005@gmail.com>
+Date:   Tue Nov 19 13:28:02 2024 +0530
+
+    js
+
+E:\JOB\FrontEndBasics\JS>git remote add origin https://github.com/Hariharan-hacker/documents.git
+
+E:\JOB\FrontEndBasics\JS>git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Hariharan-hacker/documents.git'
+
+E:\JOB\FrontEndBasics\JS>git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+E:\JOB\FrontEndBasics\JS>git branch -M main
+
+E:\JOB\FrontEndBasics\JS>git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 445 bytes | 23.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Hariharan-hacker/documents.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+E:\JOB\FrontEndBasics\JS>
